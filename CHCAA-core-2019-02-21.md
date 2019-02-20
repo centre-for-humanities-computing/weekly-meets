@@ -18,22 +18,22 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 ## Meeting Minutes ##
 
-1. Digital Literacy
+1. **Digital Literacy**
   - three proposed hackdays, Feb 25, March 13 & 21
   - groups and deliverables
 
-2. Project Status Report
+2. **Project Status Report**
 
-3. Shopping
+3. **Shopping**
   - Hardware
   - Software
   - Furniture
 
-4. Workshops & Hackdays
+4. **Workshops & Hackdays**
   - [Mixed Arts with CodeRefinery & Software Carpentry](https://kln-courses.github.io/mixed-arts/), March 5
   - LINK, March 14
   - Image Analysis, March 25, April 8
   - Lisbeth Tarp & SMK, Visual arts and computer vision, two workshops in 2019
   - CodeRefinery, Autumn 2019
 
-5. AoB and next meeting
+5. **AoB and next meeting**
