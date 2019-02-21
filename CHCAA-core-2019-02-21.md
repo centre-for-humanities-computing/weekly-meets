@@ -8,13 +8,13 @@
 Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 ## Participants ##
-[//]: # (- Henning Horn)
-[//]: # (- Kenneth Enevoldsen)
-[//]: # (- Oliver S. Jarvis)
 - Kristoffer L. Nielbo
 - Max R. Eckardt
 - Peter B. Vahlstrup
 - Ross D Kristensen-McLachlan
+[//]: # (- Henning Horn)
+[//]: # (- Kenneth Enevoldsen)
+[//]: # (- Oliver S. Jarvis)
 
 ## Meeting Minutes ##
 
@@ -33,7 +33,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
   - [Mixed Arts with CodeRefinery & Software Carpentry](https://kln-courses.github.io/mixed-arts/), March 5
   - LINK, March 14
   - Image Analysis, March 25, April 8
-  - Lisbeth Tarp & SMK, Visual arts and computer vision, two workshops in 2019
+  - Lisbeth Tarp & SMK, Visual arts and computer vision, two workshops in 2019, MAY 8-9?
   - CodeRefinery, Autumn 2019
 
 5. **AoB and next meeting**
