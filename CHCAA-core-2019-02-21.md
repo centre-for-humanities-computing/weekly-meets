@@ -12,9 +12,6 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 - Max R. Eckardt
 - Peter B. Vahlstrup
 - Ross D Kristensen-McLachlan
-[//]: # (- Henning Horn)
-[//]: # (- Kenneth Enevoldsen)
-[//]: # (- Oliver S. Jarvis)
 
 ## Meeting Minutes ##
 
