@@ -9,7 +9,7 @@ Jens Chr. Skous Vej 4, Building 1483, 656
 ## Participants ##
 - Kristoffer L. Nielbo
 - Max R. Eckardt
-- Oliver Jarvis 
+- Oliver Jarvis
 - Ross D. Kristensen-McLachlan
 
 ## Meeting Minutes ##
@@ -20,10 +20,13 @@ Jens Chr. Skous Vej 4, Building 1483, 656
 
 2. **Digital Literacy**
 	- hackdays update
+		- KLN fixes Helle's Vis
+		- Ulf KE, OJ, & KLN coordinate day
+
 
 3. **Project Status Report**
 	- old projects
-	- new projects (Jette, Armin Geertz)
+	- new projects (Jette, Armin Geertz, Carsten fra IMC)
 
 4. **Shopping**
 	- Max' sheet
