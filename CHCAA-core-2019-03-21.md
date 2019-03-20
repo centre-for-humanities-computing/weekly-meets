@@ -1,0 +1,46 @@
+# CHC-core-2019-03-21 #
+
+## Time ##
+2019, Mar 12, 11-13 CET
+
+## Location ##
+[Interacting Minds Centre](http://www.au.dk/om/organisation/find-au/bygningskort/?b=1483), Aarhus University  
+Jens Chr. Skous Vej 4, Building 1483, 3rd floor
+
+## Participants ##
+- Kristoffer L. Nielbo
+- Max R. Eckardt
+- Oliver S. Jarvis
+- Peter B. Vahlstrup
+- Ross D Kristensen-McLachlan
+
+## Meeting Minutes ##
+
+1. Project Status Report
+  - Usual round
+  - Umbrella case
+
+2. Contracts and budget
+
+3. Inquiry for a monthly help desk
+  - when, where & who
+
+4. Web server & website
+
+5. Physical workout (move shelves)
+
+6. Upcoming hacks
+  - SMK, June 6-7
+  - Jin Liu, KU, mid-june (trip to CPH)
+
+7. Post Digital Literacy
+
+8. The intern - project for
+
+9. Hardware final
+
+10. External workshops
+  - Image Analysis, March 25
+  - Digital Literacy, March 27
+
+11. AoB and next meetings

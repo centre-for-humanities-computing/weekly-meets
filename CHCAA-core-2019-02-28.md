@@ -26,13 +26,19 @@ Jens Chr. Skous Vej 4, Building 1483, 656
 
 3. **Project Status Report**
 	- old projects
-	- new projects (Jette, Armin Geertz, Carsten fra IMC)
+	- new projects
+			- Jette (Peter data, Oliver analyze, Ross/KLN map), jette should specify RQs
+			- Armin Geertz (KLN)
+			- Carsten (Max)
 
 4. **Shopping**
 	- Max' sheet
+	- for basement servers, Max & Peter & Michael (hardware meeting)
 
 5. **AU IT & Arts IT**
 
 6. **Workshops**
-
+	- LINK introduce library instead of coding
 7. **AoB and next meeting**
+	- no meeting next
+	- week after all day Wednesday 13/3

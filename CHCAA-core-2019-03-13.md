@@ -8,8 +8,6 @@
 Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 ## Participants ##
-- Henning Horn
-- Kenneth Enevoldsen
 - Kristoffer L. Nielbo
 - Max R. Eckardt
 - Oliver S. Jarvis
