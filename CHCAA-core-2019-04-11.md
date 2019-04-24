@@ -12,20 +12,22 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 - Max R. Eckardt
 - Peter B. Vahlstrup
 - Ross D Kristensen-McLachlan
-- Oliver S. Jarvis
 - Kenneth Enevoldsen
 
 ## Meeting Minutes ##
 
 1. Project Status Report
-  - Umbrella signal deadline Friday
-  - AWG redo data (input for analysis)
-
+  - Umbrella signal deadline Friday (ROSS)
+  - AWG redo data (input for analysis) (KLN)
+  - DB, five weeks
+  - Cultural Heritage Deep Machine
+  - 
 
 2. New activities
-  - Lisanne's new data > Lisanne's data service
+  - Lisanne's new data > Lisanne's data service >> søgeord, tags og specifikke datoer/perioder (Peter)
   - Auto Translation Service (pricing & GCP organization account)
-  - Student dev for Richard Dean Zoe (Ida)
+  - Google organization med translator service (KLN)
+  - Student dev for Richard Jean So (måske, Ida)
 
 3. Personel
   - Intern:
