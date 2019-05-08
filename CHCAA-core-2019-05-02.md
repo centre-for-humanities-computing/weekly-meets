@@ -24,10 +24,10 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 1. Project Status Report
 	- Lisanne (charter?)
-	- Antoinette & Matilde
+	- Antoinette & Matilde (tweets)
 	- LINK
-	- Tracer service
-	- anthropomorphisme (deadline next week)
+	- Tracer service (KLN invites Marco)
+	- anthropomorphisme (deadline next week) (KLN)
 	- DeepAnon
 	- Grundtvig AI
 
@@ -49,7 +49,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- Get data in shared folder
 
 
-7. Arkit meeting
+7. Arkit meeting - KLN for Tuesday 7
 	- Who joins Kristoffer & when
 
 8. AoB and next meetings
