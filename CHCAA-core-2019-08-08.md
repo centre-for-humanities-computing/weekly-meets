@@ -12,28 +12,39 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- Peter B. Vahlstrup
 	- Ross D K-McLachlan
 	- Kristoffer L. Nielbo
+	-
 
 ## Meeting Minutes ##
 
 	1. Project Status Report
-		- Thelle's projects
-		- CLIO application
-		- #detkuhaveværetmig
-		- Sermon
-		- Horror
-		- DeepAnon
-		- check through project backlog
+		- Thelle's projects x
+		- CLIO application ?
+		- #detkuhaveværetmig ?
+		- Sermon x
+		- Horror (assign somebody) ?
+		- DeepAnon - accurracy x
+		- Check through project backlog
+		- Reddit, søgindeks over metadata x
+		- Grundtvig (lemma & dato for RNN til Katrine) x
 
 	2. New projects
-		- Screen-ecosystem
-		- parole for NLP
-		- Voyant-server
+		- Screen-ecosystem - send list to Peter (Kristof svarer) x
+		- *Parole* for NLP - (Oliver & Kristoffer) x
+		- Voyant-server ?
+		- Isabella (Henning) - Kristof skriver
+		- Janne's tracking technology (Kenneth & Peter) x
 
 	3. Linguistics projects or sub-projects
+			- DeepAnon
+			- Lemmatisering, sprogteknologi (evaluering af)
 
-	3. [Clubhouse](https://clubhouse.io/)
+
+	3. [Clubhouse](https://clubhouse.io/) x
 
 	4. Meeting with AU-IT Aug. 15
+		 - pricing
+		 - slack
+		 - inform Pahuus
 
 	5. AoB and next meetings
 		- Playdate (Brabrandt, Aug. 17)
