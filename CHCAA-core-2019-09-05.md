@@ -20,5 +20,3 @@ Skype @ IMC
 3. Debriefing
 
 4. AoB and next meetings
-	- September 5 and 12 web conf
-	- DeIC Oct. 30-31
