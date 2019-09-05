@@ -16,6 +16,7 @@ Skype @ IMC
 
 2. New projects
 	- Marie Vejrup database migration (15.000 DKK)
+	- Pernille Smith, BSS møde, (Peter and Max, find dato)
 
 3. Debriefing
 
