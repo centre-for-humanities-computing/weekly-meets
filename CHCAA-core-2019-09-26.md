@@ -18,6 +18,8 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 1. Linguistics team
 
 2. Project Status Report
+	- *speed round*
+	- issues
 
 
 3. New projects
@@ -25,7 +27,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- HPV (30.000 DKK), delivery next week
 	- Pernille Smith, BSS møde, meeting 14:30 d.30/9
 
-4. a new datalab
+4. A new datalab?
 
 5. AoB and next meetings
 	- Autumn get-together
