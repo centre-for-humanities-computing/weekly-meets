@@ -16,16 +16,34 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 ## Meeting Minutes ##
 
 1. Linguistics team
+	- interested in coding (Em, Mikkel, Linea)
 
 2. Project Status Report
-
+	- *speed round*
+	- issues
+	- data from Iben
+	- Sofie
+	- trygfil from Ane, XML
 
 3. New projects
 	- Marie Vejrup database migration (15.000 DKK), estimate
 	- HPV (30.000 DKK), delivery next week
 	- Pernille Smith, BSS møde, meeting 14:30 d.30/9
 
-4. a new datalab
+4. A new datalab: 
+	- what is in a name 
+	- budget
+	- success criteria
+	- lectures
+
+	Purposes:
+	- train people with no digital skills - we have no entry level/design philosophy
+	- workshops/RSE network
+	- phd students, motivation through ECTS
+	- in Nobelparken?
+	- //Arkit, //HUMlab
+	- hackathon
+
 
 5. AoB and next meetings
 	- Autumn get-together
