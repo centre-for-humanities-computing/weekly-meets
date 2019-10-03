@@ -15,17 +15,23 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 ## Meeting Minutes ##
 
-1. Project Status Report
+1. new people
+
+2. help2selfhelp
+
+3. Project Status Report
 	- quick round
 	- Marie Vejrup database migration (15.000 DKK)
 	- Netlab, 1 day R coding on KAC
 
 
-2. New projects
+4. New projects
 	- HPV (30.000 DKK), delivery now
+	- Transcription, Greta Jimenez, Færøsk
+	- Transcription, Mia Hesselberg-Thomsen
 
-3. NDHL participation
+5. NDHL participation
 
-4. AoB and next meetings
+6. AoB and next meetings
 	- Autumn get-together
 	- phylogenetics postdoc
