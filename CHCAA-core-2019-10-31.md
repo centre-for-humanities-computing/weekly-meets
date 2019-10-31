@@ -36,7 +36,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- no meeting next week
 
 ## Decision and Ation Points ##
-AP: follow-up to Marie Vejrup
-DP: no meeting next week
+- AP: follow-up to Marie Vejrup
+- DP: no meeting next week
 
 
