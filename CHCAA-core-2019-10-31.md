@@ -15,7 +15,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 0. New people
 
 1. Project status report
-    - Isabelle Torrence (free web dev) (just request on slack)
+    - Isabelle Torrence (free web dev): AP: just request on slack
     - DB project update for Marie Vejrup (contact on project)
     - HPV update ()
     - Mikkel Thelle (next step)
@@ -24,12 +24,19 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 2. New projects
     - Psych, qualty check (Ross + Kenneth + nn)
-    - Ulf Davidsen
+    - Ulf Davidsen (Lasse)
 
 3. CodeRefinery workshop
+    - 
 
 4. NDHL, workshop 1 in Gothenburg
 
 5. AoB and next meetings
 	- Autumn get-together, November 1, Gartnerivej 1B
 	- no meeting next week
+
+## Decision and Ation Points ##
+AP: follow-up to Marie Vejrup
+DP: no meeting next week
+
+
