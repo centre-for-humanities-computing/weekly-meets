@@ -15,13 +15,16 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 0. New people
 
 1. Project status report
-    - Isabelle Torrence (free web dev)
-    - DB project update for Marie Vejrup
-    - HPV update
+    - Isabelle Torrence (free web dev) (just request on slack)
+    - DB project update for Marie Vejrup (contact on project)
+    - HPV update ()
+    - Mikkel Thelle (next step)
+    - dictionary examples from DSL?
+ 
 
 2. New projects
     - Psych, qualty check (Ross + Kenneth + nn)
-    - Ulf Davdisen
+    - Ulf Davidsen
 
 3. CodeRefinery workshop
 
