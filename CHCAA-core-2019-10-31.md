@@ -35,8 +35,14 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- Autumn get-together, November 1, Gartnerivej 1B
 	- no meeting next week
 
-## Decision and Ation Points ##
-- AP: follow-up to Marie Vejrup
-- DP: no meeting next week
 
+## Decision and Action Points ##
+AP: 
+- follow-up to Marie Vejrup
+- send email about CodeRefinery workshop
+- document about how to handle sensitive data to Ulf
 
+DP: 
+- no meeting next week
+
+Note: everyone is not on the github
