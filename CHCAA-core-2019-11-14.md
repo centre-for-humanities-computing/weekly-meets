@@ -8,7 +8,14 @@
 Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 ## Participants ##
-
+- Peter B. Vahlstrup
+- Ross D Kristensen-McLachlan
+- Kristoffer L. Nielbo
+- Kenneth Enevoldsen
+- Oliver S. Jarvis
+- Lasse Hansen
+- Ida Marie S. Lassen
+- Frida Hæstrup
 
 ## Meeting Minutes ##
 
@@ -17,7 +24,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
   - Refer to projects by abbreviations
 
 1. Royal Library needs exemplars
-  - Examples of why access to data is useful; e.g. studies where large scale data analysis where access to data has made a difference
+  - Examples of why access to data is useful; e.g. studies with large scale data analysis where access to data has made a difference
 
 2. Project status report
   - Kierkeby style transfer (meeting with Ane 28th (Ida Marie))
