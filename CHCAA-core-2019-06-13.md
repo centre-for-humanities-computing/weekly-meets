@@ -24,6 +24,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- Scoping for app development
 	- Marianne Pade
 	- CogSci server
+	- Gantt chart for Mads et al
 
 3. Summer bonfire
 	- June 22

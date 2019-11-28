@@ -21,17 +21,29 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 3. Project Status Report
 	- quick round
-	- Marie Vejrup database migration (15.000 DKK)
+	- Ida Marie - Kristoffer on computer vision, NDHL website
+	- Max, CR
+	- Oliver, lemmatizer
+	- Kenneth, interface (Iben deadline) - kristoffer, Per
+	- Lasse, <10hrs, room for new project
+	- Ross, Anja analysis
+	- Marie Vejrup database migration (15K DKK) - status IT, meeting with product owner,  
 	- Netlab, 1 day R coding on KAC
 
+4. Adela's corner and team
+	- Mr. T compete with, 	
+	- JupyterHub access
+	- Science data, Kristoffer
 
-4. New projects
-	- HPV (30.000 DKK), delivery now
+
+5. New projects
+	- HPV (30.000 DKK), delivery now, Kristoffer contact product owner on jan and delay
 	- Transcription, Greta Jimenez, Færøsk
 	- Transcription, Mia Hesselberg-Thomsen
 
-5. NDHL participation
+6. NDHL participation
 
-6. AoB and next meetings
+7. AoB and next meetings
+	- Carpentries
 	- Autumn get-together
 	- phylogenetics postdoc

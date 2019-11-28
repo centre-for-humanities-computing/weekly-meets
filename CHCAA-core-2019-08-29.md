@@ -11,22 +11,23 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- Max R. Eckardt
 	- Peter B. Vahlstrup
 	- Kristoffer L. Nielbo
-
+	- Oliver
+	- Kenneth
 ## Meeting Minutes ##
 
 1. Project Status Report
 	- Spatiering i Grundtvig
 	- Jupyter server
-	- Vores Museum (Maris)
+	- Vores Museum (Maris) - kristoffer kontakt
 	- Per Kirkeby
 	- LINK
 	- DeepAnon & KMD
 	- FB ads
 
 2. New projects
-	- jacob pbm project
-	- data capture for K. Helboe
-	- HPV: FB json parser, data mining, basic vis (220 x 2 hours)
+	- jacob pbm project (5-7 timer)
+	- data capture for K. Helboe (Peter crawler, Kristoffer laver charter)
+	- HPV: FB json parser, data mining, basic vis (220 x 2 hours) - in house
 	- Nordic Digital Humanities Laboratory
 
 

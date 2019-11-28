@@ -22,6 +22,7 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- | K.F. Baunvig | database | 100 hrs | CAS | 010219 | nfsgDB | | External |
 
 2. New projects
+	- Cecilie Carlsen Bach (data management, recording, specialized tools), dedicated machine for specialized tools (cc Cudim), forward ticket
 
 3. Server pricing
 

@@ -22,26 +22,34 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 	- Tracer service
 	- LINK (server)
 	- Konch benchmark
-	- Arthur's editorials
+	- Arthur's editorials - PBV svarer
 	- Lisanne (data)
 
-2. New projects
-	- Automate screenshots from YouTube
-	- Set dates for Horror & City Mapping projects
-	- Start and manage RSE network
 
-3. Come up with a Tropy solution and close the project now
+2. New projects
+	- Automate screenshots from YouTube; specify task (selection criteria) - KLN svare
+	- Set dates for Horror & City Mapping projects - RDKM & KLN sets dates  
+	- Start and manage RSE network - ASK, discuss KLN
+
+3. Come up with a Tropy solution and close the project now - Max fixer
 
 4. Website
+	- portfolio being fixed
+	- one liner for crazy, impressive projects
+	- what do we do and what not
+	- KLN contact Henning on Bot
 
 5. GitLab repo
+	- admin niveau
+	- opret ny sag i detalje (KLN & MAX)
 
 6. Steering Group
 	- Project report
-	- Other items
+	- Other items - kommunikation med AU (deres problem skalerer), forklaring på hvorfor vi ikke må x eller y
 
 7. Events
 	- Who participates in https://events.au.dk/danmarkshistoriendk
 	- NeIC 2019
 
 8. AoB and next meetings
+	- Skrive til Lotte om notat til Morten
