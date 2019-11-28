@@ -8,7 +8,15 @@
 Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 ## Participants ##
-
+- Peter B. Vahlstrup
+- Ross D Kristensen-McLachlan
+- Kristoffer L. Nielbo
+- Kenneth Enevoldsen
+- Oliver S. Jarvis
+- Lasse Hansen
+- Max R. Eckardt
+- Jan Kostkan
+- Frida Hæstrup
 
 ## Meeting Minutes ##
 
