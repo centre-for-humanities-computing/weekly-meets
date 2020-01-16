@@ -15,12 +15,13 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 1. Project update
   - run through clubhouse
-  - EUROV, Maris prepare 
+  - EUROV, Maris prepare
 
 2. New projects
   - PJLD
   - Genome BERT, estimate
   - cogsci servers
+  - Thelle's Sound Map
 
 3. Outreach 2020
     - CEDHAR & other centres
