@@ -12,22 +12,23 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 
 ## Meeting Minutes ##
 
+1. Adela's corner
+  - schedule SC & CR
+  - approximate date for CR (kristoffer)
+  - jupyterhub on VPS
+  
+2. Project update
+  - run through clubhouse
 
-1. Project update
-  - run thourgh clubhouse
-
-
-2. New projects
+3. New projects
   - reboot religion & samfund
 
-
-3. Infrastructure update
+4. Infrastructure update
   - server description
   - jupyterhub
   - cables+
 
-
-6. AoB and next meetings
+5. AoB and next meetings
   - SoMe data in class
   - Winterfest IMC
   - join mailing list
