@@ -56,5 +56,6 @@ DP:
 - each developer update project owners every two weeks
 - consider ideas for outreach strategy
 - need standard for project management on servers
+- weekly meetings at 14:00 Thursdays during next semester
 
 
