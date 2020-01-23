@@ -25,4 +25,4 @@ Jens Chr. Skous Vej 4, Building 1483, 3rd floor
 4. Competency-development
 
 5. AoB and next meetings
-  - servers and installations
+  - servers, consistency, and project management
