@@ -14,6 +14,9 @@
   - default: 10 hrs a week
   - regular projects
   - HOPE status
+    - preprocessing of nordic tweets
+    - graph visualization
+    - guidedLDA
 
 1. Project update
   - PO updates all over
@@ -30,3 +33,4 @@
 5. Competency-development
 
 6. AoB and next meetings
+    - server maintenance
