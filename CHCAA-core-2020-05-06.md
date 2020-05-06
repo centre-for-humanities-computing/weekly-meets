@@ -14,6 +14,7 @@
     - Data parallelism for pre-processing
 
 2. Project update
+    - Hope, website and data uploader
     - Eurovision, new hashtags: #eurovision, #esc, #europeshinealight, #eurovisioncometogether for May 15,16,17
     - Eurovision, price estimate for translation (amount of data & auto-trans alternatives)
     - Mistrust, work for the web archive
