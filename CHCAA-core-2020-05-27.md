@@ -10,22 +10,24 @@
 
 
 ## Meeting Minutes ##
+
 1. Data Commando
     - automate Epinion to social scientists
     - warp sentiments
     - sentiment neural normalizer
 
-2. Project update
+2. DATAlab
+
+3. Project update
     - update from all junior
     - exam schedule
 
-3. New projects & task
-    - 
+4. New projects & task 
 
-4. Website (PINC \[suspended\])
+5. Website (PINC \[suspended\])
 
-5. TextDB
+6. TextDB
 
-6. Competency-development
+7. Competency-development
 
-7. AoB and next meetings
+8. AoB and next meetings
