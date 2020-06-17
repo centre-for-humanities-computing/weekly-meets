@@ -11,7 +11,10 @@
 ## Meeting Minutes ##
 
 1. Data Commando
+  - Dehydrate tweet-ids (software, twarc)
   - HOPE Notebooks & Reports Update
+  - Survey-text (@ andreas)
+  - Jianbo studies
 
 2. DATAlab
 
